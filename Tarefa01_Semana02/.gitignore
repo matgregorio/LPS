@@ -1,0 +1,6 @@
+/build/
+/dist/
+/store/
+#/nbproject/ não pode senao tem que criar o projeto sempre que der um clone
+# Para arquivos Java compilados
+*.class
